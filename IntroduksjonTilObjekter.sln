@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroduksjonTilObjekter", "IntroduksjonTilObjekter.csproj", "{0017D5D2-3A97-4386-AEC1-3772D5955704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0017D5D2-3A97-4386-AEC1-3772D5955704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0017D5D2-3A97-4386-AEC1-3772D5955704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0017D5D2-3A97-4386-AEC1-3772D5955704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0017D5D2-3A97-4386-AEC1-3772D5955704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADABDA77-C375-4C28-88BE-BBFA14E93B29}
+	EndGlobalSection
+EndGlobal
